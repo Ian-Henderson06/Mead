@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iakr5t6ACUxOLUV77xhnBXs8lfuVoQ2E4os6z7HLqz4ssIkcOmKCXCHuXXAgJjHtU4yG1c5qyzZf3nK4RarEVA==",
+  "success": true,
+  "projectFilePath": "I:\\Projects\\C#\\Mead\\Mead.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianhe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

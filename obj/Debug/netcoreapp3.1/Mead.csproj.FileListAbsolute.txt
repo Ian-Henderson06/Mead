@@ -1,0 +1,14 @@
+I:\Projects\C#\Mead\obj\Debug\netcoreapp3.1\Mead.csprojAssemblyReference.cache
+I:\Projects\C#\Mead\obj\Debug\netcoreapp3.1\Mead.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\C#\Mead\obj\Debug\netcoreapp3.1\Mead.AssemblyInfoInputs.cache
+I:\Projects\C#\Mead\obj\Debug\netcoreapp3.1\Mead.AssemblyInfo.cs
+I:\Projects\C#\Mead\obj\Debug\netcoreapp3.1\Mead.csproj.CoreCompileInputs.cache
+I:\Projects\C#\Mead\bin\Debug\netcoreapp3.1\Mead.exe
+I:\Projects\C#\Mead\bin\Debug\netcoreapp3.1\Mead.deps.json
+I:\Projects\C#\Mead\bin\Debug\netcoreapp3.1\Mead.runtimeconfig.json
+I:\Projects\C#\Mead\bin\Debug\netcoreapp3.1\Mead.runtimeconfig.dev.json
+I:\Projects\C#\Mead\bin\Debug\netcoreapp3.1\Mead.dll
+I:\Projects\C#\Mead\bin\Debug\netcoreapp3.1\Mead.pdb
+I:\Projects\C#\Mead\obj\Debug\netcoreapp3.1\Mead.dll
+I:\Projects\C#\Mead\obj\Debug\netcoreapp3.1\Mead.pdb
+I:\Projects\C#\Mead\obj\Debug\netcoreapp3.1\Mead.genruntimeconfig.cache
