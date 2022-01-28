@@ -7,6 +7,9 @@ namespace Mead
 
     class Scanner
     {
+        /// <summary>
+        /// Functional words
+        /// </summary>
         readonly Dictionary<string, TokenType> keywords = new Dictionary<string, TokenType>
         {
             {"def", TokenType.KW_DEF},
@@ -50,7 +53,7 @@ namespace Mead
         {
             char c = advance();
             switch (c)
-            {
+            { //Handles all 'basic' types including strings, numbers and arithmetic expressions. If its none of these, then its denoted as a 'keyword' 
                 case '(': addToken(TokenType.LEFT_PAREN); break;
                 case ')': addToken(TokenType.RIGHT_PAREN); break;
                 case '+': addToken(TokenType.PLUS); break;

@@ -5,6 +5,9 @@ using System.IO;
 
 namespace Mead
 {
+    /// <summary>
+    /// Static class used to handle reading in file bytes.
+    /// </summary>
     static class FileHandler
     {
         public static byte[] GetFileBytes(string path)

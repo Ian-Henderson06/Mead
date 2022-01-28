@@ -1,0 +1,16 @@
+| or
+* 0 or more of whats before it.
+[] denote gramatical brackets - eg factor [MUL factor]* denotes that factor can have any number of 'MUL factor' following it.
+Uppercase words denote keywords recognised by the tokeniser.
+
+Factor:
+    | INT
+    | FLOAT
+
+Term:
+    | Factor MUL Factor
+    | Factor DIV Factor
+   
+Expr:
+    | Term PLUS Term
+    | Term MINUS Term
